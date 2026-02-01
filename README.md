@@ -1,0 +1,7 @@
+# Random 3x3 Matrix
+
+This is a simple C++ program that creates a 3x3 matrix with random numbers from 1 to 100.  
+It uses a function to fill the matrix and print it.  
+Every time you run it, you get a different matrix because of time-based random seeding.  
+
+##Problem -> 1
