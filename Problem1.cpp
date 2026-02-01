@@ -22,7 +22,7 @@ void MatrixArray(int Arr[3][3], short Rows, short cols)
 		for (int j = 0; j < cols; j++)
 		{
 			Arr[i][j] = RandomNumber(1, 100);
-			cout << Arr[i][j] << "    ";
+			cout << setw(3) <<Arr[i][j] << "    ";
 		}
 		cout << endl;
 	}
