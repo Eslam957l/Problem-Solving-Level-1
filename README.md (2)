@@ -1,6 +1,6 @@
 ## Matrix Row Sum (C++)
 
-A simple C++ program that generates a 3×3 matrix with random numbers from 1 to 100,  
+A simple C++ rogram that generates a 3×3 matrix with random numbers from 1 to 100,  
 then calculates and prints the sum of each row in a formatted output.
 
 # Problem -> 2
