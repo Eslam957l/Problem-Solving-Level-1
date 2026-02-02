@@ -3,4 +3,4 @@
 A simple C++ rogram that generates a 3×3 matrix with random numbers from 1 to 100,  
 then calculates and prints the sum of each row in a formatted output.
 
-# Problem -> 2
+## Problem -> 2
