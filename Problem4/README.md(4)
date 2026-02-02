@@ -1,1 +1,6 @@
+## Ordered 3x3 Matrix
 
+This C++ program generates and displays a 3x3 matrix filled with ordered numbers starting from 1.
+It uses nested loops and a function to fill the matrix and print it in a formatted way.
+
+## Problem -> 4
